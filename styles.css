@@ -128,6 +128,7 @@ button:hover {
   }
   .box-1, .box-2 {
     margin: 20px;
+    flex: 1;
   }
   .box-1 {
     align-self: center;
